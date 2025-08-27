@@ -1,70 +1,32 @@
 ---
 layout: page
-title: Course Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
-# DATA0297: Natural Language Processing (Fall 2025)
 
-**Instructor:** [Shuo Zhang](https://as.tufts.edu/dataanalytics/people/faculty/shuo-zhang), Ph.D, Professor of the Practice, Data Analytics, Tufts University     
-**Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
-**Time:** Mondays 6:00–9:00pm  
-**Location:** Tisch Library 316   
-**Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment
 
----
-## Schedule
 
-| Date       | Topic                                   | Slides & Materials                                                                 | Readings                                                                 | Assignment      | Presentation |
-|------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|
-| **Jan 22** | **Introduction, Course Overview**           | [Slides](https://shuozio.notion.site/Intro-1-22-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Jurafsky & Martin Ch. 1](https://web.stanford.edu/~jurafsky/slp3/1.pdf) |                 |              |
-| **Jan 29** | **Text Classification, Naive Bayes**        | [Slides](https://shuozio.notion.site/Text-Classification-1-29-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)                   | HW1 Out         |              |
-| **Feb 5**  | **Logistic Regression, Neural Nets**        | [Slides](https://shuozio.notion.site/Logistic-Regression-2-5-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)                   |                 |              |
-| **Feb 12** | **Language Modeling**                       | [Slides](https://shuozio.notion.site/Language-Modeling-2-12-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)                   | HW1 Due         |              |
-| **Feb 19** | **No Class (Presidents' Day)**              |                                                                                    |                                                                          |                 |              |
-| **Feb 26** | **Sequence Labeling, HMMs**                 | [Slides](https://shuozio.notion.site/Sequence-Labeling-2-26-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)                   | HW2 Out         |              |
-| **Mar 4**  | **Syntax, Parsing**                        | [Slides](https://shuozio.notion.site/Syntax-Parsing-3-4-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf)                 |                 |              |
-| **Mar 11** | **Constituency Parsing**                    | [Slides](https://shuozio.notion.site/Constituency-Parsing-3-11-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)                 | HW2 Due         |              |
-| **Mar 18** | **Spring Break**                            |                                                                                    |                                                                          |                 |              |
-| **Mar 25** | **Dependency Parsing**                      | [Slides](https://shuozio.notion.site/Dependency-Parsing-3-25-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)                 | HW3 Out         |              |
-| **Apr 1**  | **Machine Translation**                     | [Slides](https://shuozio.notion.site/Machine-Translation-4-1-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Ch. 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)                 |                 |              |
-| **Apr 8**  | **Transformers, Pretraining**               | [Slides](https://shuozio.notion.site/Transformers-4-8-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Vaswani et al. 2017](https://arxiv.org/abs/1706.03762)                  | HW3 Due         |              |
-| **Apr 15** | **No Class (Patriots' Day)**                |                                                                                    |                                                                          |                 |              |
-| **Apr 22** | **Ethics, Fairness in NLP**                 | [Slides](https://shuozio.notion.site/Ethics-Fairness-4-22-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Blodgett et al. 2020](https://aclanthology.org/2020.acl-main.485/)      |                 |              |
-| **Apr 29** | **Project Presentations**                   |                                                                                    |                                                                          | Project Due     |              |
 
----
 
-## Assignments
 
-- **HW1:** Text Classification (Out Jan 29, Due Feb 12)
-- **HW2:** Sequence Labeling (Out Feb 26, Due Mar 11)
-- **HW3:** Dependency Parsing (Out Mar 25, Due Apr 8)
-- **Project:** Final Project (Due Apr 29)
+| **Date**                          | **Topic**|**Slides**| **Readings**  | **Assignment**| **Presentation** | **Notes**|
+|------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|----|
+| **Sep 1** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Labor Day)**              |             
+| **Sep 8** | **Introduction**           | [Slides](https://tufts.app.box.com/file/1304995840257?s=tu41828b9wi18h0vhkid727ki0ubfnqg ) | [Working with text in Python3](https://people.cs.georgetown.edu/nschneid/cosc572/s23/02_py-notes.html) <br> SLP3 2.1-2.3,3.1-3.3<br>[NLTK Book3](https://www.nltk.org/book/ch03.html) |        student background survey         |              |
+| **Sep 15** | **Language Modeling**        | [Slides] | SLP3:3.1-3.6                   | HW2.1 Out;   <span style="color:#8a0317;font-weight:600"> survey due </span>|    |team assignment; homework logistics; github intro
+| **Sep 22**  | **Machine Learning, Naive Bayes**        | [Slides] | SLP3:Chapter 4   |         HW4.1 out        |              |
+| **Sep 29** | **Logistic Regression, Deep Neural Networks**    | [Slides] |     SLP3:Chapter 5&7       | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |              | DNN software: Tensorflow Keras
+| **Oct 6** | **Word Vectors and Embeddings**     | [Slides]| SLP3:Chapter 6            | HW6.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1 due </span>      |              |
+| **Oct 13** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Indigenous People's Day)**              |                                                                                    |                                                                          |                 |              |
+| **Oct 20** | **Sequence Labeling, RNN; LSTM; Attention**;     <span style="color:#8a0317;font-weight:600"> Zoom class </span>            | [Slides] | SLP3: Chapter 8                  | HW9.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1-6.1 due </span>        |              |
+| **Oct 27**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [Slides] |              |      <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>           |              |
+| **Nov 3** | **Self-attention and Transformer**                    | [Slides] | SLP3:Chapter 9                | <span style="color:#8a0317;font-weight:600"> final project proposal due </span>       |              |
+| **Nov 10** | **Large Language Models (LLM)** | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |            |
+| **Nov 17** | **BERT, GPT, T5**                      | [Slides] | SLP3:Chapter 11             |     <span style="color:#8a0317;font-weight:600"> HW11.1 due </span>  |              |
+| **Nov 24**  | **SOTA LLMs and AI agents**                     | [Slides] | SLP3: Chapter 12               |                 |              |
+| **Dec 1**  | **Industry Speaker**; <span style="color:#8a0317;font-weight:600"> guest lecturer </span>              | |                |    |              |                                                                                   |                                                                          |                 |              |
+| **Dec 8** | **Project Presentations**                   |                                                                                    |                                                                          |       |              |
+| **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  <span style="color:#8a0317;font-weight:600"> final paper due </span>     |              |
 
----
 
-## Resources
-
-- [Course Syllabus (PDF)](https://shuozio.notion.site/Syllabus-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e)
-- [Textbook: Speech and Language Processing (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/)
-- [Course Piazza](https://piazza.com/tufts/spring2024/data0297)
-- [Course GitHub](https://github.com/data0297/nlp)
-
----
-
-## Announcements
-
-> **Jan 22:** Welcome to DATA0297! Please read the [syllabus](https://shuozio.notion.site/Syllabus-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) and join [Piazza](https://piazza.com/tufts/spring2024/data0297).
-> 
-> **Feb 12:** HW1 is due today. Submit via [Gradescope](https://www.gradescope.com/).
-> 
-> **Mar 11:** HW2 is due today. Submit via [Gradescope](https://www.gradescope.com/).
-> 
-> **Apr 8:** HW3 is due today. Submit via [Gradescope](https://www.gradescope.com/).
-
----
-
-## Contact
-
-For questions, email [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu) or visit during office hours. 
